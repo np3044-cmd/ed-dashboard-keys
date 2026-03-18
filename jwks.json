@@ -1,6 +1,12 @@
-"kty": "RSA",
+{
+  "keys": [
+    {
+      "kty": "RSA",
       "n": "w8R_076Wf_7HWR40hAIUi3_AuLafMhqJXu_T-XwcyOCEyT7_C-nxO4apd_nGPFLw_pGcKKM3YhO3P2X4dmwKKar4_2VEHXCFH-fo5OyMiM_no5NFB3hW0EwnY4Owoiekt1_Gt8A5cGU21Kt_9--pHUpS0UwZ5nk30cdTaDBd4ACKlt1Q-wWxScbvIiOCHbAKtUNsJjcwq7DH9D4c0hddKc0X6jNOQv9pCLEBj9ojyti5uMMntTVeBbci3KYmuThRnur9a500i8JjQa5ggcmCIIeUf9OFCXGQMWCoruKc6gWGGXJsxRZuzkZpjanvJQoLSxV33-Q4DIIWhXVit0WIRw",
       "e": "AQAB",
       "use": "sig",
       "alg": "RS384",
       "kid": "ed-dashboard-key-1"
+    }
+  ]
+}
