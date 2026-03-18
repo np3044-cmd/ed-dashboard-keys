@@ -1,3 +1,4 @@
+{
   "keys": [
     {
       "kty": "RSA",
@@ -8,3 +9,4 @@
       "kid": "ed-dashboard-key-1"
     }
   ]
+}
